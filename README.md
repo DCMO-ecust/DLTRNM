@@ -1,2 +1,3 @@
-# LDTRN
-large-scale distributed transcriptional regulatory network
+# DLTRN
+Distributed Large-scale Transcriptional Regulatory Network
+coming soon
