@@ -1,3 +1,3 @@
-# DLTRN
-Distributed Large-scale Transcriptional Regulatory Network  
+# DLTRNM
+Distributed Large-scale Transcriptional Regulatory Neural Network Modal  
 coming soon
